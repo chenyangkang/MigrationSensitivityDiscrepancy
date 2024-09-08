@@ -1,0 +1,15 @@
+all
+Trophic_Niche_Aquatic_predator
+Trophic_Niche_Frugivore
+Trophic_Niche_Granivore
+Trophic_Niche_Herbivore_aquatic
+Trophic_Niche_Herbivore_terrestrial
+Trophic_Niche_Invertivore
+Trophic_Niche_Nectarivore
+Trophic_Niche_Omnivore
+Trophic_Niche_Scavenger
+Trophic_Niche_Vertivore
+Trophic_Level_Carnivore
+Trophic_Level_Herbivore
+Trophic_Level_Omnivore
+Trophic_Level_Scavenger

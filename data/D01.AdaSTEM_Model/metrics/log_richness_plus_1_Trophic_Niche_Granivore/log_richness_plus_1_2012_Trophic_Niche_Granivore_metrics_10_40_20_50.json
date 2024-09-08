@@ -1,0 +1,1 @@
+{"AUC": NaN, "kappa": NaN, "f1": NaN, "precision": NaN, "recall": NaN, "average_precision": NaN, "Spearman_r": 0.6883082170879877, "Pearson_r": 0.6885815339612283, "R2": 0.47317605414221364, "MAE": 0.38219520003902496, "MSE": 0.22998831685586194, "poisson_deviance_explained": 0.3583944833036957}
