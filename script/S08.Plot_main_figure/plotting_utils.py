@@ -3,9 +3,9 @@
 
 # Generate 11 distinct colors with increased lightness and saturation
 def generate_diverging_colors():
-    import numpy as np
-    import matplotlib.pyplot as plt
     import matplotlib.colors as mcolors
+    import matplotlib.pyplot as plt
+    import numpy as np
 
     base_colors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', 
                    '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf', '#aec7e8']
@@ -67,16 +67,3 @@ def name_processor(niche):
             a = name.split(' ')[0]
             name = b.capitalize()+' '+a.lower()
     return name
-
-
-
-
-
-
-
-
-
-
-
-
-

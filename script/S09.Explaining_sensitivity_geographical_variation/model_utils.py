@@ -1,23 +1,27 @@
-import numpy as np
-import pandas as pd
-from tqdm.auto import tqdm
-from scipy.stats import pearsonr, spearmanr
+import pickle
+
+import arviz as az
 import h3pandas
 import matplotlib.pyplot as plt
-import statsmodels.api as sm
-import pickle
-import arviz as az
+import numpy as np
+import pandas as pd
 import pymc as pm
 import pymc.sampling.jax as pmjax
+import statsmodels.api as sm
+
 # import jax
 # import tensorflow_probability.substrates.jax as tfp
 # jax.scipy.special.erfcx = tfp.math.erfcx
-from fastprogress.fastprogress import master_bar, progress_bar
-from fastprogress.fastprogress import force_console_behavior
+from fastprogress.fastprogress import force_console_behavior, master_bar, progress_bar
+from scipy.stats import pearsonr, spearmanr
+from tqdm.auto import tqdm
+
 master_bar, progress_bar = force_console_behavior()
-import pytensor.tensor as pt
 import re
 from warnings import filterwarnings
+
+import pytensor.tensor as pt
+
 filterwarnings('ignore')
 
 tqdm.pandas()
