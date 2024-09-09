@@ -1,0 +1,1 @@
+The environmental cue data (GreenWave_agg_h3_02_2010.csv - GreenWave_agg_h3_02_2021.csv, and h3_02_temperature_2010.csv - h3_02_temperature_2021.csv) are not uploaded because each of the file exceeds the maximum limit of 50MB. 
