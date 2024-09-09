@@ -3,3 +3,7 @@
 **/*Trophic_Level*
 #**.pkl
 *.pyc
+data/D03.smoothed_peaks/all_smoothed_peaks_spring.csv
+data/D02.wave_peak/all_birdwave_greenwave_peak.csv
+data/D02.wave_peak/all_birdwave_peak.csv
+data/D10.Explaining_sensitivity_regression/*sensitivity.pkl
