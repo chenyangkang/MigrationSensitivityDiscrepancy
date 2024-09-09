@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/beegfs/store4/chenyangkang/06.ebird_data/46.Seasonal_Diversity/13.Resort_Code_and_Data/script/S05.model_sensitivity_by_query_curve/GreenWave_BirdWave_correlation_BYM2_multi_niches_and_season_year_effect.py", line 44, in <module>
+    comb = comb.dropna(subset=['mu_ARR', 'std_ARR',
+  File "/beegfs/store4/chenyangkang/miniconda3/lib/python3.9/site-packages/pandas/core/frame.py", line 6670, in dropna
+    raise KeyError(np.array(subset)[check].tolist())
+KeyError: ['mean_expected_trace_by_year_effect', 'std_expected_trace_by_year_effect']

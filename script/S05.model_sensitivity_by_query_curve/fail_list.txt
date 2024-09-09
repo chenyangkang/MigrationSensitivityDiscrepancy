@@ -1,0 +1,6 @@
+Trophic_Niche_Granivore	mean_NDVI
+Trophic_Niche_Scavenger	mean_NDVI
+Trophic_Niche_Vertivore	mean_NDVI
+Trophic_Niche_Omnivore	delta_NDVI
+Trophic_Niche_Omnivore	mean_NDVI
+Trophic_Level_Omnivore	delta_NDVI

@@ -1,0 +1,5 @@
+Trophic_Niche_Aquatic_predator	mean_NDVI
+Trophic_Niche_Aquatic_predator	tmax
+Trophic_Niche_Herbivore_terrestrial	mean_NDVI
+Trophic_Niche_Herbivore_terrestrial	delta_NDVI
+Trophic_Niche_Nectarivore	tmax
